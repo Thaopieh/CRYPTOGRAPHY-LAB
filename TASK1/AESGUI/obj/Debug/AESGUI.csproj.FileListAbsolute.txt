@@ -1,0 +1,10 @@
+E:\Term4\MMH\AESGUI\bin\Debug\AESGUI.exe.config
+E:\Term4\MMH\AESGUI\bin\Debug\AESGUI.exe
+E:\Term4\MMH\AESGUI\bin\Debug\AESGUI.pdb
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.csproj.AssemblyReference.cache
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.AES.resources
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.Properties.Resources.resources
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.csproj.GenerateResource.cache
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.csproj.CoreCompileInputs.cache
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.exe
+E:\Term4\MMH\AESGUI\obj\Debug\AESGUI.pdb

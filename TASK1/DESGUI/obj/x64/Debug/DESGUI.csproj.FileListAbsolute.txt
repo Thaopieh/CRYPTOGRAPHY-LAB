@@ -1,0 +1,10 @@
+E:\Term4\MMH\DESGUI\bin\x64\Debug\DESGUI.exe.config
+E:\Term4\MMH\DESGUI\bin\x64\Debug\DESGUI.exe
+E:\Term4\MMH\DESGUI\bin\x64\Debug\DESGUI.pdb
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.csproj.AssemblyReference.cache
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.Form1.resources
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.Properties.Resources.resources
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.csproj.GenerateResource.cache
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.csproj.CoreCompileInputs.cache
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.exe
+E:\Term4\MMH\DESGUI\obj\x64\Debug\DESGUI.pdb
