@@ -1,0 +1,32 @@
+C:\Users\tieul\Desktop\Digital\Digital\bin\Debug\net8.0-windows\Digital.exe
+C:\Users\tieul\Desktop\Digital\Digital\bin\Debug\net8.0-windows\Digital.deps.json
+C:\Users\tieul\Desktop\Digital\Digital\bin\Debug\net8.0-windows\Digital.runtimeconfig.json
+C:\Users\tieul\Desktop\Digital\Digital\bin\Debug\net8.0-windows\Digital.dll
+C:\Users\tieul\Desktop\Digital\Digital\bin\Debug\net8.0-windows\Digital.pdb
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.Form1.resources
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.csproj.GenerateResource.cache
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.AssemblyInfoInputs.cache
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.AssemblyInfo.cs
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.csproj.CoreCompileInputs.cache
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.dll
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\refint\Digital.dll
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.pdb
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\Digital.genruntimeconfig.cache
+C:\Users\tieul\Desktop\Digital\Digital\obj\Debug\net8.0-windows\ref\Digital.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\Digital.exe
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\Digital.deps.json
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\Digital.runtimeconfig.json
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\Digital.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\Digital.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.Form1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\refint\Digital.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\ref\Digital.dll

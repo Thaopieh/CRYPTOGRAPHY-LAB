@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Term4\\MMH\\RSAGUI\\",
+  "WorkspaceRootPath": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|e:\\term4\\mmh\\rsagui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|e:\\term4\\mmh\\cryptography\\task3\\rsagui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|E:\\Term4\\MMH\\RSAGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|E:\\Term4\\MMH\\RSAGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22F762BE-2C30-4574-BD26-A92773C6A933}|RSAGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Term4\\MMH\\RSAMSVC\\RSAMSVC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -28,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,9 +43,9 @@
               "DocumentIndex": 4,
               "Title": "RSAMSVCDLL.cpp",
               "DocumentMoniker": "E:\\Term4\\MMH\\TASK3\\RSAMSVCDLL.cpp",
-              "RelativeDocumentMoniker": "..\\TASK3\\RSAMSVCDLL.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\TASK3\\RSAMSVCDLL.cpp",
               "ToolTip": "E:\\Term4\\MMH\\TASK3\\RSAMSVCDLL.cpp",
-              "RelativeToolTip": "..\\TASK3\\RSAMSVCDLL.cpp",
+              "RelativeToolTip": "..\\..\\..\\TASK3\\RSAMSVCDLL.cpp",
               "ViewState": "AQIAAGICAAAAAAAAAAAwwIwCAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-14T15:26:50.666Z"
@@ -55,33 +55,33 @@
               "DocumentIndex": 3,
               "Title": "RSAMSVC.cpp",
               "DocumentMoniker": "E:\\Term4\\MMH\\RSAMSVC\\RSAMSVC.cpp",
-              "RelativeDocumentMoniker": "..\\RSAMSVC\\RSAMSVC.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\RSAMSVC\\RSAMSVC.cpp",
               "ToolTip": "E:\\Term4\\MMH\\RSAMSVC\\RSAMSVC.cpp",
-              "RelativeToolTip": "..\\RSAMSVC\\RSAMSVC.cpp",
+              "RelativeToolTip": "..\\..\\..\\RSAMSVC\\RSAMSVC.cpp",
               "ViewState": "AQIAAOoAAAAAAAAAAAAAAAEBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-07T08:28:28.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Term4\\MMH\\RSAGUI\\Form1.cs",
+              "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Term4\\MMH\\RSAGUI\\Form1.cs",
+              "ToolTip": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAqwJcAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T11:21:13.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Term4\\MMH\\RSAGUI\\Program.cs",
+              "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Term4\\MMH\\RSAGUI\\Program.cs",
+              "ToolTip": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAqwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,15 +89,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Term4\\MMH\\RSAGUI\\Form1.cs",
+              "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Term4\\MMH\\RSAGUI\\Form1.cs [Design]",
+              "ToolTip": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK3\\RSAGUI\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T11:16:24.801Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-25T11:16:24.801Z"
             }
           ]
         }

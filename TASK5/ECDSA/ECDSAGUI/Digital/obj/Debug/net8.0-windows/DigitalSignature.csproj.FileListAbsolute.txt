@@ -1,0 +1,32 @@
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.exe
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.deps.json
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.runtimeconfig.json
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.Form1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\refint\DigitalSignature.dll
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Digital\Digital\Digital\obj\Debug\net8.0-windows\ref\DigitalSignature.dll
+E:\Term4\MMH\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.exe
+E:\Term4\MMH\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.deps.json
+E:\Term4\MMH\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.runtimeconfig.json
+E:\Term4\MMH\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.dll
+E:\Term4\MMH\Digital\Digital\Digital\bin\Debug\net8.0-windows\DigitalSignature.pdb
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\Digital.Form1.resources
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.csproj.GenerateResource.cache
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.GeneratedMSBuildEditorConfig.editorconfig
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.AssemblyInfoInputs.cache
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.AssemblyInfo.cs
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.csproj.CoreCompileInputs.cache
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.dll
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\refint\DigitalSignature.dll
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.pdb
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\DigitalSignature.genruntimeconfig.cache
+E:\Term4\MMH\Digital\Digital\Digital\obj\Debug\net8.0-windows\ref\DigitalSignature.dll

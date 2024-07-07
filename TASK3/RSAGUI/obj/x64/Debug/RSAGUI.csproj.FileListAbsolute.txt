@@ -8,3 +8,13 @@ E:\Term4\MMH\RSAGUI\obj\x64\Debug\RSAGUI.csproj.GenerateResource.cache
 E:\Term4\MMH\RSAGUI\obj\x64\Debug\RSAGUI.csproj.CoreCompileInputs.cache
 E:\Term4\MMH\RSAGUI\obj\x64\Debug\RSAGUI.exe
 E:\Term4\MMH\RSAGUI\obj\x64\Debug\RSAGUI.pdb
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\bin\x64\Debug\RSAGUI.exe.config
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\bin\x64\Debug\RSAGUI.exe
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\bin\x64\Debug\RSAGUI.pdb
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.csproj.AssemblyReference.cache
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.Form1.resources
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.Properties.Resources.resources
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.csproj.GenerateResource.cache
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.csproj.CoreCompileInputs.cache
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.exe
+E:\Term4\MMH\CRYPTOGRAPHY\TASK3\RSAGUI\obj\x64\Debug\RSAGUI.pdb

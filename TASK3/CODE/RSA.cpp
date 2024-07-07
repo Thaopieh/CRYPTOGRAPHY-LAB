@@ -319,6 +319,7 @@ void RSAencrypt(const char* format, const char* publicKeyFile, const char* Plain
     auto start = std::chrono::high_resolution_clock::now();
     for (int i = 0; i < 10000; i++)
     {
+         cipher.clear();
         // Encryption
         RSAES_OAEP_SHA_Encryptor e(publicKey);
 
@@ -407,6 +408,7 @@ void RSAdecrypt(const char* format, const char* privateKeyFile, const char* Ciph
     auto start = std::chrono::high_resolution_clock::now();
     for (int i = 0; i < 10000; i++)
     {
+         recover.clear();
         StringSource(
             cipher, true,
             new PK_DecryptorFilter(rnd, d,
@@ -483,10 +485,9 @@ int main(int argc, char** argv)
         {
             plaintextFile = argv[4];
         }
-        for (int i = 0; i < 10000; i++)
-        {
+
             RSAencrypt(format, publicKeyFile, plaintextFile, cipherFile);
-        }
+        
 
     }
     else if (mode == "decrypt" && (argc == 5 || argc == 6))
@@ -501,11 +502,8 @@ int main(int argc, char** argv)
             cipherFile = argv[4];
         }
 
-        for (int i = 0; i < 10000; i++)
-        {
-
             RSAdecrypt(format, privateKeyFile, cipherFile, recoveredFile);
-        }
+        
 
     }
     else

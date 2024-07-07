@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AESGUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A264E68-4ACF-40AF-A9BD-362C97C9D0AA}|AESGUI.csproj|e:\\term4\\mmh\\cryptography\\task1\\aesgui\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A264E68-4ACF-40AF-A9BD-362C97C9D0AA}|AESGUI.csproj|solutionrelative:aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +16,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A264E68-4ACF-40AF-A9BD-362C97C9D0AA}|AESGUI.csproj|E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A264E68-4ACF-40AF-A9BD-362C97C9D0AA}|AESGUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A264E68-4ACF-40AF-A9BD-362C97C9D0AA}|AESGUI.csproj|e:\\term4\\mmh\\cryptography\\task1\\aesgui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +28,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AES.cs",
               "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\AES.cs",
               "RelativeDocumentMoniker": "AES.cs",
@@ -39,6 +45,18 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AESGUI",
+              "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\AESGUI.csproj",
+              "RelativeDocumentMoniker": "AESGUI.csproj",
+              "ToolTip": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\AESGUI.csproj",
+              "RelativeToolTip": "AESGUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-15T20:37:26.159Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -48,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AES.cs [Design]",
               "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\AES.cs",
               "RelativeDocumentMoniker": "AES.cs",
@@ -59,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Term4\\MMH\\CRYPTOGRAPHY\\TASK1\\AESGUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

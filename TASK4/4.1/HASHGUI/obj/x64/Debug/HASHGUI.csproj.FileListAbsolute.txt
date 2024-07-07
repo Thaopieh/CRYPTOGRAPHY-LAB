@@ -1,0 +1,10 @@
+E:\Term4\MMH\HASHGUI\bin\x64\Debug\HASHGUI.exe.config
+E:\Term4\MMH\HASHGUI\bin\x64\Debug\HASHGUI.exe
+E:\Term4\MMH\HASHGUI\bin\x64\Debug\HASHGUI.pdb
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.csproj.AssemblyReference.cache
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.Form1.resources
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.Properties.Resources.resources
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.csproj.GenerateResource.cache
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.csproj.CoreCompileInputs.cache
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.exe
+E:\Term4\MMH\HASHGUI\obj\x64\Debug\HASHGUI.pdb
